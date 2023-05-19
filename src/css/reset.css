@@ -1,0 +1,10 @@
+*{ /* o asterisco serve para ele estilizar todas as tags do HTML*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{ /* o list-style: none ... serve para resetar o padrão css que ja vem no HTML das listas, como por exemplo o "ponto" preto que vem ao lado dos nomes*/
+    list-style: none;
+
+}
