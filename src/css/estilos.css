@@ -4,12 +4,14 @@ body {
   margin: 0 auto; /*zero é margin cima em baixo, e auto para dividir as margens laterais iguais esquerda e direita*/
   background-color: #5e5b5bad;
   color: #333333; /*aqui ele vai colorir o texto*/
+  
+  
 }
 
 body.modo-escuro {
   /*vamos pegar isso no javascript*/
-  background-color: #212121;
   color: #f5f5f5;
+  background-image: url(/src/imagens/Noite.jpg);
 }
 
 header {
